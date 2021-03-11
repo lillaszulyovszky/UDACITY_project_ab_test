@@ -1,5 +1,5 @@
 # UDACITY Project - A/B Testing 
-This project I will be working to run an A/B test for an e-commerce website and understand the results.
+This project shows how to run an A/B test for an e-commerce website and how to understand the results.
 
 ## A/B Testing
 
